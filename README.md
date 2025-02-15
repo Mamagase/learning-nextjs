@@ -47,7 +47,7 @@ npx create-next-app@latest
 src/app/page.tsx //treated as the home route when visiting localhost:300.
 ```
 
--The localhost:300 is gonna look for the page.tsx in app folder and render the component in the layout.tsx then the details of the component is displayed.
+- The localhost:300 is gonna look for the page.tsx in app folder and render the component in the layout.tsx then the details of the component is displayed.
 
 ## Single Routes:
 
