@@ -63,6 +63,12 @@ src/app/about/page.tsx //the about route.
 src/app/contact/page.tsx //the contact route.
 ```
 
+### Profile route
+
+```bash
+src/app/profile/page.tsx //the profile route.
+```
+
 ## Nested Routes:
 
 ### Blog routes
