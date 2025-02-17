@@ -74,9 +74,29 @@ src/app/profile/page.tsx //the profile route.
 ### Blog routes
 
 ```bash
-src/app/blog/page.tsx //the main blog route.
+src/app/blog/page.tsx //the blogs route.
 
 src/app/blog/first/page.tsx //the first blog route which is the sub-folder of the main.
 
 src/app/blog/second/page.tsx //the second blog route which is the sub-folder of the main.
+```
+
+## Dynamic Routes:
+
+### Product routes
+
+```bash
+src/app/products/page.tsx //the products route.
+
+src/app/products/[productId]/page.tsx //the dynamic product route.
+```
+
+## Nested Dynamic Routes:
+
+### Reviews routes
+
+```bash
+src/app/products/[productId]/reviews/page.tsx //the nested dynamic reviews route.
+
+src/app/products/[productId]/reviews/[reviewId]/page.tsx //the nested dynamic review route.
 ```
