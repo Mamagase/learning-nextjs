@@ -31,7 +31,10 @@ N.B Folders within src/app folder are routes by default.
 # Installation:
 
 ```bash
-npx create-next-app@latest
+run npx create-next-app@latest //creating new projects
+// Clone or download the repo 
+run npm i //installing dependecies
+run npm run dev //to start a project
 ```
 
 # Prerequisite:
